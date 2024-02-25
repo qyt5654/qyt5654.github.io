@@ -1,0 +1,21 @@
+.style-red{color:aqua}
+#title{
+    margin: 10px;
+    font-size: 20px;
+}
+.title{color:blue}
+.avatar {
+    border-radius: 50%;
+    width: 150px;
+}
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: PingFang SC,RobotoDraft,Roboto,Helvetica Neue,Helvetica,Arial,STHeiti,华文黑体,Microsoft YaHei,微软雅黑,sans-serif;
+    color: #333333;
+    background: rgba(249, 249, 249, 0.66);
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
